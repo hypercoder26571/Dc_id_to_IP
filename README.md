@@ -1,1 +1,3 @@
-# Dc_id_to_IP
+# Dc account id to IP
+
+This script based on minecraft and fivem's servers data breaches
